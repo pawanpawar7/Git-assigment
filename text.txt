@@ -7,3 +7,6 @@ Headquartered in California, it has been a subsidiary of Microsoft since 2018.[5
 It is commonly used to host open-source projects.[6] As of November 2021, GitHub reports having over 
 73 million developers[7] and more than 200 million repositories[8] (including at least 28 million 
 public repositories).[9] It is the largest source code host as of November 2021.
+
+GitHub.com
+Development of the GitHub.com platform began on October 19, 2007.[10][11][12] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been made available for a few months prior as a beta release.[13] GitHub has an annual keynote called GitHub 
